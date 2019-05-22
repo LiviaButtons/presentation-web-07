@@ -1,2 +1,3 @@
-#### Site de presentation des Web07
-pour fin de formation "front-end" chez Interface3
+## Les Web07
+
+Site réalisé pour presenter les stagiaires qui ont completé la formation "front-end" chez Interface3.
