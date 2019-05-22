@@ -201,9 +201,10 @@ figure figcaption {
 #fh5co-aside #fh5co-main-menu ul li:nth-of-type(4) a:after {
   background-color: #1f71b4;
 }
-/*.remerciements ul {
-list-style: url('../img/etoile.png')
-}*/
+#remerciements ul li{
+ list-style: url(eto.jpg);
+ padding: 10px;
+}
 #fh5co-aside #fh5co-main-menu ul li a:hover {
   text-decoration: none;
   color: black;
@@ -863,6 +864,10 @@ body.offcanvas #fh5co-main, body.offcanvas .fh5co-nav-toggle {
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 2px;
+}
+.pouvoirs{
+	margin-top: -4em;
+	margin-bottom: 4em;
 }
 .fh5co-heading.fh5co-light {
   color: #fff;
