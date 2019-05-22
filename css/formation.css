@@ -1,6 +1,9 @@
 .fh5co-feature .fh5co-icon {
   background: none;
 }
+.fh5co-feature .fh5co-icon img {
+  width: 50px;
+}
 h3 {
   color: red;
 }
