@@ -24,3 +24,10 @@
 .blog-entry:hover .blog-img img {
     transform: unset;
 }
+
+.links {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
