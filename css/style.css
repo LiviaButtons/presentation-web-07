@@ -19,7 +19,7 @@ body {
   /*color: rgba(0, 0, 0, 0.5);*/
   color: #000;
   background: whitesmoke;
-  cursor: url(../images/cursor-ww.svg), pointer;
+  /*cursor: url(../images/cursor-ww.svg), pointer;*/
 }
 @media screen and (max-width: 992px) {
   body {
@@ -37,7 +37,7 @@ a:hover, a:active, a:focus {
   color: #228896;
   outline: none;
   text-decoration: none !important;
-  cursor: url(../images/cursor-ww.svg), pointer;
+ /* cursor: url(../images/cursor-ww.svg), pointer;*/
 }
 
 p {
