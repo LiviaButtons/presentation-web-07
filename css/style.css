@@ -202,7 +202,7 @@ figure figcaption {
   background-color: #1f71b4;
 }
 #remerciements ul li{
- list-style: url(etoile.png);
+ list-style: url(etoile.svg);
  padding: 10px;
 }
 #fh5co-aside #fh5co-main-menu ul li a:hover {
