@@ -1,5 +1,5 @@
 #bcg-film {
-  position: relative;         
+  position: relative;
   height: 100vh;
   width: auto;
   overflow: hidden;
@@ -22,7 +22,7 @@
 
 @media (pointer: coarse) and (hover: none) {
   #bcg-film {
-    background: url('./video/wonder_web.mp4') black no-repeat center center scroll;
+    background: url('../video/wonder_web.mp4') black no-repeat center center scroll;
   }
   #bcg-film video {
     display: none;
