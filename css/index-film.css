@@ -1,0 +1,30 @@
+#bcg-film {
+  position: relative;         
+  height: 100vh;
+  width: auto;
+  overflow: hidden;
+}
+
+#bcg-film video {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  min-width: 100%;
+  min-height: 100%;
+  width:auto;
+  height: auto;
+  z-index: 0;
+  -ms-transform: translateX(-50%) translateY(-50%);
+  -moz-transform: translateX(-50%) translateY(-50%);
+  -webkit-transform: translateX(-50%) translateY(-50%);
+  transform: translateX(-50%) translateY(-50%);
+}
+
+@media (pointer: coarse) and (hover: none) {
+  #bcg-film {
+    background: url('./video/wonder_web.mp4') black no-repeat center center scroll;
+  }
+  #bcg-film video {
+    display: none;
+  }
+}
