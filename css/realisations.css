@@ -6,6 +6,10 @@
     max-height: auto;
 }
 
+.blog-entry {
+  height: 700px;
+}
+
 .blog-img .profile-img:first-of-type {
     position: relative;
 }
